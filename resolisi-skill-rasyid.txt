@@ -2,6 +2,7 @@ resolusi tahun 2021
 -bisa membuat tic tac toe
  * membuat checkwin
  * membuat bot 5x5
+ * membuat bot 7x7
  *membuat boardgame
 -bisa memakai github
 -bisa memakai git
