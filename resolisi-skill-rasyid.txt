@@ -1,4 +1,6 @@
 resolusi tahun 2021
 -bisa membuat tic tac toe
+ *membuat boardgame
 -bisa memakai github
 -bisa memakai git
+-paham cara berkolaborasi
