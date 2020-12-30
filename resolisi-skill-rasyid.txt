@@ -1,4 +1,6 @@
 resolusi tahun 2021
 -bisa membuat tic tac toe
+ * membuat checkwin
+ * membuat bot 3x3
 -bisa memakai github
 -bisa memakai git
